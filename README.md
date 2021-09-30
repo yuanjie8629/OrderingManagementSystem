@@ -3,7 +3,7 @@
 ## Overview
 <p>Mrs Kiah used to sell homemade cakes and pastries from home. Due to the covid-19 pandemic situation, her business was hugely affected, and she decided to move her business into an online platform to survive in the industry. To help Mrs Kiah, we will be developing an online ordering and delivery management system.</p>
 <p>Additionally, this system applies OOP approach.</p>
-<p>For this system, the homemade cakes and pastries ordering page is developed and tested, which allows the user to choose the items and quantities, to track status of the order and calculate the total price accordingly before proceeding for payment. The requirements for the order module and the functions of the system are as follows:</p>
+<p>For this system, the homemade cakes and pastries ordering page is developed and tested, which allows the user to choose the items and quantities, to track status of the order and calculate the total price accordingly before proceeding for payment. The requirements for the order module, functions of the system and system assumptions are as follows:</p>
 
 #### Order Module Requirements
 
