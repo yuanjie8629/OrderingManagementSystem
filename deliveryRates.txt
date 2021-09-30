@@ -1,0 +1,20 @@
+Alor Gajah|Alor Gajah|2.50
+Jasin|Asahan|4.00
+Melaka Tengah|Ayer Keroh|5.00
+Melaka Tengah|Bandar Hilir|5.00
+Melaka Tengah|Batu Berendam|3.50
+Jasin|Bemban|4.00
+Melaka Tengah|Bukit Beruang|3.50
+Alor Gajah|Durian Tunggal|3.50
+Jasin|Jasin|4.00
+Alor Gajah|Kuala Linggi|3.00
+Alor Gajah|Kuala Sungai Baru|3.00
+Alor Gajah|Lubok China|3.00
+Alor Gajah|Masjid Tanah|2.50
+Melaka Tengah|Melaka Tengah|5.00
+Jasin|Merlimau|4.00
+Jasin|Selandar|4.00
+Jasin|Sungai Rambai|2.50
+Melaka Tengah|Sungai Udang|2.50
+Melaka Tengah|Tanjong Kling|4.50
+Melaka Tengah|Ujong Pasir|4.50
