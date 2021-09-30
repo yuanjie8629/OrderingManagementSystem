@@ -77,6 +77,15 @@
 6. Remove an Item
 7. Checkout
 
+#### System Assumptions
+1.	All the data stored inside text file are valid. Therefore, no validation or testing are needed on the data retrieved from the text file.
+2.	The order cannot be check out if there are no items in the order.
+3.	The user can track the order by the order id. Each order id is unique and will be shown to user once the order is checked out.
+4.	Name should contain only alphabets.
+5.	Postal Code of address should contain only 5 digits.
+6.	Street of address should contain only alphabets, number is allowed only at the end to specify the street number.
+7.	Total order is subtotal price – total discount.
+
 ## Tools
 1. Java
 2. JUnit 4
@@ -105,23 +114,23 @@ This document describes the test plan for the online ordering and delivery manag
 #### Scope
 The scope of this test plan is to perform unit testing and integration testing on the online ordering page of the online ordering and delivery management system. 
 The features to be tested are as follows:
-1.	Address module
+1.	**Address module**<br> 
 The main test on this module is to validate the delivery state. Since the delivery is only available within Melaka, the delivery address should be with state = Melaka.
-2.	Order module
+2.	**Order module**<br> 
 There are several tests to be performed on this module. 
-    - Add items and quantity into an order.<br> 
+    - Add items and quantity into an order<br> 
       The order should contain accurate items and relative quantity from the input of user.
-    - Remove item from an order.<br> 
+    - Remove item from an order<br> 
       The order should not contain the removed item after user remove the item from the order.
-    - Get delivery charges of the order.<br> 
+    - Get delivery charges of the order<br> 
       The delivery charges should be computed based on the area specified in the delivery rates list. If the area is not found, the order cannot be proceed.
-    - Compute subtotal price of an order.<br> 
+    - Compute subtotal price of an order<br> 
       The subtotal price should be computed based on the membership of the customer. If the order is made by guest, the subtotal price should be computed with non-member price, else, the subtotal price should be computed with member price.
-    - Compute total discount of an order.<br> 
+    - Compute total discount of an order<br> 
       Since some of the items are promotional items, the total discount should be computed for these promotional items.
-    - Compute additional charge.<br>
+    - Compute additional charge<br>
       An additional charge of RM3 should be added if the total order is less than RM25.
-    - Compute total price.<br>
+    - Compute total price<br>
       The total price of an order should be computed by the sum the subtotal price, additional charge as well as delivery charge and subtract it with the total discount of the order.
     - Track Order<br>
       Each order should has unique id number and the information of the order should be retrieved when user track the order with its id number.
