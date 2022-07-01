@@ -1,4 +1,7 @@
 # OrderingManagementSystem
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Overview
 <p>Mrs Kiah used to sell homemade cakes and pastries from home. Due to the covid-19 pandemic situation, her business was hugely affected, and she decided to move her business into an online platform to survive in the industry. To help Mrs Kiah, we will be developing an online ordering and delivery management system.</p>
@@ -157,7 +160,22 @@ There are several tests to be performed on this module.
 7. Checkout <br> <img src="previews/Checkout.png"><br><br>
 8. Test Report <br> <img src="previews/TestReport.png"><br><br>
 
-## Contributors
-1. Lean Wei Liang
-2. Seow Kai Sheng
-3. Tan Yuan Jie
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/yuanjie8629"><img src="https://avatars.githubusercontent.com/u/86699785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tan Yuan Jie</b></sub></a><br /><a href="https://github.com/yuanjie8629/OrderingManagementSystem/commits?author=yuanjie8629" title="Code">💻</a> <a href="#data-yuanjie8629" title="Data">🔣</a> <a href="https://github.com/yuanjie8629/OrderingManagementSystem/commits?author=yuanjie8629" title="Documentation">📖</a> <a href="#ideas-yuanjie8629" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-yuanjie8629" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/yuanjie8629/OrderingManagementSystem/commits?author=yuanjie8629" title="Tests">⚠️</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
